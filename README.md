@@ -1,1 +1,2 @@
-this file contain java notes.
+Welcome!!
+This file contains java notes.
